@@ -1,2 +1,2 @@
 # SportTimeConverterApp
-An app to display sport game times to australian tome automatically
+An app to display sport game times to australian time automatically
